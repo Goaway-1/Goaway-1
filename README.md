@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGoaway-1&count_bg=%23A09CFF&title_bg=%23070707&icon=github.svg&icon_color=%239EACEF&title=Veiw&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <!--
 **Goaway-1/Goaway-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
