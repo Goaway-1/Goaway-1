@@ -1,6 +1,6 @@
 ### Welcome to my Profile!👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGoaway-1&count_bg=%23A09CFF&title_bg=%23070707&icon=github.svg&icon_color=%239EACEF&title=Veiw&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGoaway-1&count_bg=%23AEC3EC&title_bg=%23323131&icon=git.svg&icon_color=%23D7D7D7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **Goaway-1/Goaway-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
