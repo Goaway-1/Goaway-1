@@ -7,6 +7,7 @@
   |GameDev|20.03.10 ~ 20.03.15|First Project Game|[JustJump](https://github.com/Goaway-1/Just-Jump)|
   |GameDev|20.12.22 ~ 21.02.23| Simple Clicker Game|[ClickerGame](https://github.com/Goaway-1/My-Clicker-Game)|
   |Deep Learning|21.02.24 ~ ing||[ML-Agent](https://github.com/Goaway-1/ML-Agent)|
+  |GameDev|21.02.27 ~ ing||[Fast_Campus](https://github.com/Goaway-1/Fast_Campus)|
 
 ![Namaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Goaway-1&show_icons=true&theme=radical)
 
