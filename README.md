@@ -2,7 +2,7 @@
   ![Hits](https://img.shields.io/github/followers/Goaway-1?label=Follow)
 
 ## 👋I'm a One Man Developer!
- ### I'm currently studying computer science at a university in Korea and personally interested in game development, so I'm learning about __<span style="color:yellow;">Unity</span>__!
+ ### I'm currently studying computer science at a university in Korea and personally interested in a video game development, so I'm learning about __<span style="color:yellow;">Unity</span>__!
 
   ## __Projects__
   |Type|Date|Contents|Links|
