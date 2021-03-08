@@ -7,7 +7,7 @@
   ## __Projects__
   |Type|Date|Contents|Links|
   |:--:|:--:|:--:|:--:|
-  |GameDev|20.03.10 ~ 20.03.15|Arcade Game|[Tic Tok](https://github.com/Goaway-1/Tic-Tok)|
+  |GameDev|20.01.26 ~ 20.02.16|Arcade Game|[Tic Tok](https://github.com/Goaway-1/Tic-Tok)|
   |GameDev|20.03.10 ~ 20.03.15|Arcade Game|[Just Jump](https://github.com/Goaway-1/Just-Jump)|
   |GameDev|20.12.22 ~ 21.02.23|Clicker Game|[Clicker Game](https://github.com/Goaway-1/My-Clicker-Game)|
   |Deep Learning|21.02.24 ~ ing|Deep Learing Project|[ML-Agent](https://github.com/Goaway-1/ML-Agent)|
