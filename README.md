@@ -7,10 +7,11 @@
   ## __Projects__
   |Type|Date|Contents|Links|
   |:--:|:--:|:--:|:--:|
-  |GameDev|20.03.10 ~ 20.03.15|First Project Game|[Just Jump](https://github.com/Goaway-1/Just-Jump)|
-  |GameDev|20.12.22 ~ 21.02.23|Simple Clicker Game|[Clicker Game](https://github.com/Goaway-1/My-Clicker-Game)|
-  |Deep Learning|21.02.24 ~ ing|First Deep Learing Project|[ML-Agent](https://github.com/Goaway-1/ML-Agent)|
-  |Fast Campus|21.02.27 ~ ing|Third Game|[Fast Campus](https://github.com/Goaway-1/Fast_Campus)|
+  |GameDev|20.03.10 ~ 20.03.15|Arcade Game|[Tic Tok](https://github.com/Goaway-1/Tic-Tok)|
+  |GameDev|20.03.10 ~ 20.03.15|Arcade Game|[Just Jump](https://github.com/Goaway-1/Just-Jump)|
+  |GameDev|20.12.22 ~ 21.02.23|Clicker Game|[Clicker Game](https://github.com/Goaway-1/My-Clicker-Game)|
+  |Deep Learning|21.02.24 ~ ing|Deep Learing Project|[ML-Agent](https://github.com/Goaway-1/ML-Agent)|
+  |Fast Campus|21.02.27 ~ ing|Shooting Game|[Fast Campus](https://github.com/Goaway-1/Fast_Campus)|
 
 ### :cyclone: Languages
 ![C#](https://img.shields.io/badge/C-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-5AC8C8?style=plastic&logo=c#&logoColor=black)  ![Unity](https://img.shields.io/badge/Unity-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0095D5??style=plastic&logo=unity&logoColor=white)  ![Linux Master Level 2](https://img.shields.io/badge/Linux%20Maxster%20Level%202-FF8200?logo=linux&logoColor=black)
