@@ -3,6 +3,8 @@
 
 ## 👋I'm a One Man Developer!
  ### I'm currently studying computer science at a university in Korea and personally interested in a video game development, so I'm learning about __<span style="color:yellow;">Unity</span>__!
+  
+  🌱 I’m currently learning a Unity...//
 
   ## __Projects__
   |Type|Date|Contents|Links|
@@ -13,25 +15,10 @@
   |Deep Learning|21.02.24 ~ ing|Deep Learing Project|[ML-Agent](https://github.com/Goaway-1/ML-Agent)|
   |Fast Campus|21.02.27 ~ ing|Shooting Game|[Fast Campus](https://github.com/Goaway-1/Fast_Campus)|
 
-### :cyclone: Languages
+### ✨ Languages ✨
 ![C#](https://img.shields.io/badge/C-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-5AC8C8?style=plastic&logo=c#&logoColor=black)  ![Unity](https://img.shields.io/badge/Unity-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0095D5??style=plastic&logo=unity&logoColor=white)  ![Linux Master Level 2](https://img.shields.io/badge/Linux%20Maxster%20Level%202-FF8200?logo=linux&logoColor=black)
 
 ![Namaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Goaway-1&show_icons=true&theme=radical)
 
 ## :mailbox_with_mail: Contacts
 [![Gmail Badage](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:richardqwe46@gmail.com)](mailto:richardqwe46@gmail.com) 
-
-<!--
-**Goaway-1/Goaway-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
