@@ -3,8 +3,7 @@
 
 ## 👋I'm a One Man Developer!
  ### I'm currently studying computer science at a university in Korea and personally interested in a video game development, so I'm learning about __<span style="color:yellow;">Unity</span>__!
-  
-I can't study because I'm busy these days. :(
+ 
 
   ## __Projects__
   |Type|Date|Contents|Links|
