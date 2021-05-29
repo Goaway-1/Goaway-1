@@ -17,7 +17,7 @@
   
 
 ### ✨ Languages ✨
-![C#](https://img.shields.io/badge/C-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-5AC8C8?style=plastic&logo=c#&logoColor=black)  ![Unity](https://img.shields.io/badge/Unity-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0095D5??style=plastic&logo=unity&logoColor=white)  ![Linux Master Level 2](https://img.shields.io/badge/Linux%20Maxster%20Level%202-FF8200?logo=linux&logoColor=black) ![Unreal Engine](https://img.shields.io/badge/Unreal-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0095D5??style=plastic&logo=unreal&logoColor=white)
+![C#](https://img.shields.io/badge/C-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-5AC8C8?style=plastic&logo=c#&logoColor=black)  ![Unity](https://img.shields.io/badge/Unity-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0095D5??style=plastic&logo=unity&logoColor=white)  ![Linux Master Level 2](https://img.shields.io/badge/Linux%20Maxster%20Level%202-FF8200?logo=linux&logoColor=black) ![Unreal Engine](https://img.shields.io/badge/UnrealEngine-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0095D5??style=plastic&logo=unrealengine&logoColor=white)
 
 ![Namaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Goaway-1&show_icons=true&theme=radical)
 
