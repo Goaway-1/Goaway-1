@@ -11,7 +11,6 @@
   |GameDev|Unity|20.01.26 ~ 20.02.16|Arcade Game|[Tic Tok](https://github.com/Goaway-1/Tic-Tok)|
   |GameDev|Unity|20.03.10 ~ 20.03.15|Arcade Game|[Just Jump](https://github.com/Goaway-1/Just-Jump)|
   |GameDev|Unity|20.12.22 ~ 21.02.23|Clicker Game|[Clicker Game](https://github.com/Goaway-1/My-Clicker-Game)|
-  |Deep Learning|Unity|21.02.24 ~ stop|Deep Learing Project|[ML-Agent](https://github.com/Goaway-1/ML-Agent)|
   |Fast Campus|Unity|21.02.27 ~ stop|Shooting Game|[Fast Campus](https://github.com/Goaway-1/Fast_Campus)|
   |GameDev|Unreal|21.05.28 ~ ing|3D Action Game|[Battle Arena](https://github.com/Goaway-1/Arena_UnrealEngine)|
   
