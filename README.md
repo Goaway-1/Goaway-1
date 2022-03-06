@@ -24,4 +24,5 @@
 ## :mailbox_with_mail: Contacts
 [![Gmail Badage](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:richardqwe46@gmail.com)](mailto:richardqwe46@gmail.com)
 
-![snake animation](https://github.com/Goaway-1/Goaway-1/blob/output/github-contribution-grid-snake2.svg)
+## Blog
+[Blog](https://Goaway-1.github.io)
