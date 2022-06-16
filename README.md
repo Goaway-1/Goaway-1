@@ -3,6 +3,7 @@
 
 ## 👋I'm a One Man Developer!
   ### I'm currently studying computer science at a university in Korea and personally interested in a video game development, so I'm learning about Unreal Engine!
+  ### There's a __[Blog](https://Goaway-1.github.io)__, too!
  
   ## __Projects__
   |Type|Tool|Date|Contents|Links|
@@ -23,4 +24,3 @@
 
 ## :mailbox_with_mail: Contacts
 [![Gmail Badage](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:richardqwe46@gmail.com)](mailto:richardqwe46@gmail.com)
-[Blog](https://Goaway-1.github.io)
