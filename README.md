@@ -3,7 +3,7 @@
 
 ## 👋I'm a One Man Developer!
   ### I'm currently studying computer science at a university in Korea and personally interested in a video game development, so I'm learning about Unreal Engine!
-  ### There's a __[Blog](https://Goaway-1.github.io)__, too!
+  ### There's a my __[Blog](https://Goaway-1.github.io)__, too!
  
   ## __Projects__
   |Type|Tool|Date|Contents|Links|
