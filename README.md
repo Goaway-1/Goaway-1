@@ -24,3 +24,7 @@
 
 ## :mailbox_with_mail: Contacts
 [![Gmail Badage](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:richardqwe46@gmail.com)](mailto:richardqwe46@gmail.com)
+
+[Dev_Event](https://dev-event.vercel.app/events)
+[면접](https://github.com/devham76/tech-interview-study)
+[면접2](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
