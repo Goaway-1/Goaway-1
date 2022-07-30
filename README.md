@@ -1,7 +1,7 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGoaway-1&count_bg=%23AEC3EC&title_bg=%23323131&icon=git.svg&icon_color=%23D7D7D7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   ![Hits](https://img.shields.io/github/followers/Goaway-1?label=Follow)
 
-## 👋I'm a One Man Developer!
+## 👋 One Man Developer!
   ### I'm currently studying computer science at a university in Korea and personally interested in a video game development, so I'm learning about Unreal Engine!
   ### There's a my __[Blog](https://Goaway-1.github.io)__, too!
  
