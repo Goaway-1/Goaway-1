@@ -15,7 +15,7 @@
   |GameDev|Unreal4|21.05.28 ~ 21.06.12|3D Action Game|[Arena](https://github.com/Goaway-1/Arena_UnrealEngine)|
   |GameDev|Unreal4|21.07.26 ~ 22.01.30|3D Action Game|[Battle_Arena](https://github.com/Goaway-1/Battle_Arena)|
   |BitCoin|Python, AWS_Consol, Slack|22.01.15 ~ 22.01.16|AutoTradeSystem|[BitCoinAutoSystem](https://github.com/Goaway-1/BitCoinAutoSystem)|
-  |GameDev|Unreal4|22.03.09 ~ 22.03.28|UE5 Plugin|[ActionCameraManager](https://github.com/Goaway-1/ActionCameraPlugin)|
+  |GameDev|Unreal5|22.03.09 ~ 22.03.28|UE5 Plugin(Open Source)|[ActionCameraManager](https://github.com/Goaway-1/Action-Camera-Manager-Plugin)|
   |GameDev|Unreal5|22.07.20 ~ ing|3D Fight Game|[Naruto](https://github.com/Goaway-1/Naruto)|
 
 ### ✨ Languages ✨
