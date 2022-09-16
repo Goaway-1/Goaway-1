@@ -2,7 +2,6 @@
   ![Hits](https://img.shields.io/github/followers/Goaway-1?label=Follow)
 
 ## 👋 Hello world!
-  ### I'm currently studying computer science at a university in Korea and personally interested in a video game development, so I'm learning about Unreal Engine!
   ### There's a my __[Blog](https://Goaway-1.github.io)__, too!
  
   ## __Projects__
