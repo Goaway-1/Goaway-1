@@ -2,7 +2,7 @@
   ![Hits](https://img.shields.io/github/followers/Goaway-1?label=Follow)
 
 ## 👋 Hello world!
-  ### There's a my __[Blog](https://Goaway-1.github.io)__, too!!
+  ### There's a my __[Blog](https://Goaway-1.github.io)__, too!!!!
  
   ## __Projects__
   |Type|Tool|Date|Contents|Links|
